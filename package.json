@@ -1,0 +1,29 @@
+{
+  "name": "sword-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcodehang/sword-js.git"
+  },
+  "author": "mrcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcodehang/sword-js/issues"
+  },
+  "homepage": "https://github.com/mrcodehang/sword-js#readme",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cli": "^1.2.2",
+    "gulp-concat": "^2.6.1",
+    "list-diff2": "^0.1.4"
+  }
+}
